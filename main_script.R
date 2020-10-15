@@ -16,11 +16,11 @@ dir <- "C:/Users/mbofi/Dropbox/C5/Scripts/GitKraken/R-Exams"
 # Complete exam
 ######################################################
 
-myexam <- c("capitals.Rmd","ttest.Rmd","tstat2")  
-# http://www.r-exams.org/templates/
+# exercises
+myexam <- c("capitals.Rmd","ttest.Rmd", "relfreq","tstat2")  
 
 # marks
-marks <- c(2.5,2.5,5)
+marks <- c(2.5,2.5,2.5,2.5)
 
 
 set.seed(1)
